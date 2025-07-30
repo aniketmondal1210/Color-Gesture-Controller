@@ -26,7 +26,7 @@ Install dependencies:
 pip install opencv-python numpy pyautogui
 ```
 
-🚀 How It Works
+## 🚀 How It Works
 
     Webcam feed is accessed using OpenCV.
 
@@ -36,7 +36,7 @@ pip install opencv-python numpy pyautogui
 
     A bounding box is drawn around detected yellow objects.
 
-▶️ Usage
+## ▶️ Usage
 
 Run the script:
 
@@ -46,7 +46,7 @@ python color_gesture_controller.py
 
 Exit by pressing q.
 
-💡 Use Cases
+## 💡 Use Cases
 
     Gesture-based game control 🕹️
 
@@ -56,10 +56,10 @@ Exit by pressing q.
 
     Fun computer interaction project 😄
 
-📸 Demo
+## 📸 Demo
 
 Coming soon! 📷🎬
 
-📄 License
+## 📄 License
 
 This project is licensed under the MIT License.
