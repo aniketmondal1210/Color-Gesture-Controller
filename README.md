@@ -26,3 +26,40 @@ Install dependencies:
 pip install opencv-python numpy pyautogui
 ```
 
+🚀 How It Works
+
+    Webcam feed is accessed using OpenCV.
+
+    The image is converted to HSV to isolate yellow colors.
+
+    If a yellow object moves upward (based on Y-coordinate), pyautogui triggers a spacebar press.
+
+    A bounding box is drawn around detected yellow objects.
+
+▶️ Usage
+
+Run the script:
+
+```bash
+python color_gesture_controller.py
+```
+
+Exit by pressing q.
+
+💡 Use Cases
+
+    Gesture-based game control 🕹️
+
+    Touchless slide changers 🖼️
+
+    Basic automation interfaces 🤖
+
+    Fun computer interaction project 😄
+
+📸 Demo
+
+Coming soon! 📷🎬
+
+📄 License
+
+This project is licensed under the MIT License.
